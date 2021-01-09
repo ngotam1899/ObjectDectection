@@ -1,0 +1,5 @@
+*.h5
+/01 - Dự đoán hình ảnh/DenseNet-BC-121-32.h5
+/01 - Dự đoán hình ảnh/inception_v3_weights_tf_dim_ordering_tf_kernels.h5
+/01 - Dự đoán hình ảnh/mobilenet_v2.h5
+/01 - Dự đoán hình ảnh/resnet50_weights_tf_dim_ordering_tf_kernels.h5
